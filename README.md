@@ -1,29 +1,7 @@
-
-Determining which algorithm to use: this answer depends on many factors such as the problem statement, dedsired output , type and size of the data, the available computational time, number of features, and observations in the data.
-
+This research project uses publicly available data and machine learning to forecast professional road cycling results. 
 
 
-1. Size of the training data:
-
-If the training data is smaller and a higher number of features choose algorithms with high bias/low variance like Linear regression, Naïve Bayes, or Linear SVM
-If the training data is sufficiently large and the number of observations is higher as compared to the number of features, one can go for low bias/high variance algorithms like KNN, Decision trees, or kernel SVM.
-
-
-2. The output Trade off Accuracy between Interpretability: 
-
-If inference is the goal (interpretability), then restrictive models (linear regression, least squares) are better as they are much more interpretable (High bias/under fitting) 
-Flexible models are better if higher accuracy is the goal. (low bias/over fitting/high variance)
-
-3. Speed or Training time
-
-Higher accuracy typically means higher training time. Also, algorithms require more time to train on large training data. Algorithms like Naïve Bayes and Linear and Logistic regression are easy to implement and quick to run. Algorithms like SVM, which involve tuning of parameters, Neural networks with high convergence time, and random forests, need a lot of time to train the data.
-
-
- 
-ordinal regression or linear regression. 
-magnitudes of the performance. Create my own point system becuase including points difference. points system becomes normally distrubted? 
-People are avoiding predicting finishing position, instead predicting points and finishing times. Mass sprint, reduced sprint, beak away. weight/wind shelter 
-
+There are two disinct compitions formats within the sport of professional road cycling, these are the one-day races and stage races races. Stage races or "tours" take multiple days, and consist of several mass-start races and time-trials called stages. The most prestidgous stage races are the grand tours they are Tour de France, Giro d'Italia and  Vuelta a España. The most prestidigous one-day races are the five 'momuments of cycling' they are Milan–San Remo, Tour of Flanders, Paris–Roubaix, Liège–Bastogne–Liège and Giro di Lombardia.
 
 I have never bet on sports 
 
