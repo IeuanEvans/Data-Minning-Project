@@ -1,3 +1,5 @@
+
+
 This research project uses publicly available data from https://www.procyclingstats.com/ and machine learning to predicted professional road cycling results.
 
 Step One: Data Mining/Web Scraping
@@ -9,10 +11,14 @@ See below
 
  
 Step Two: Data Cleaning and Processing 
+
+
 missing data
 columns to make sure your data is homogeneous and clean
 how you can link everything together to achieve your original goal.
 Concatinagte some list
+
+Game stat data, team stat data, and datetime data are merge later into a feature file (.npz) for the ML algorithm (Lasso Logistic Regression) 
 
 
 Step Three: Analysis
