@@ -2,7 +2,10 @@ This research project uses publicly available data from https://www.procyclingst
 
 Step One: Data Mining/Web Scraping
 
-I needed a way of extracting data off ProCyclingStats.com and storing it in a format ready for analysis. To learn how to achieve this on Corey Schafer's YouTube channel, he has a tuturial on webscrape using BeuatifulSoup and Requests libraries.  
+I needed a way of extracting data off ProCyclingStats.com and storing it in a format ready for analysis. Corey Schafer's YouTube channel has a tuturial on webscrape using BeuatifulSoup and Requests libraries, in addition to beuatifulsoup documentation on crummy.com.
+
+The script goes through each race results and rider profile page and writes the relavent statistics to a pandas dataframes (e.g. date, distance, average speed, top-10 wins etc.).
+See below 
 
  
 Step Two: Data Cleaning and Processing 
@@ -12,11 +15,8 @@ how you can link everything together to achieve your original goal.
 Concatinagte some list
 
 
-Step Three: 
-missing data
-columns to make sure your data is homogeneous and clean
-how you can link everything together to achieve your original goal.
-Concatinagte some list
+Step Three: Analysis
+
 
 
 Step Four:
