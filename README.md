@@ -7,7 +7,7 @@ Professional Cycling Outcome Prediction Project
 
 As this was my first project of this kind I needed to find an effective way of extracting data off ProCyclingStats.com and storing it in a format ready for analysis. I highly rate Corey Schafer's YouTube channel for learning Python, fortunetly he has a video tuturial on webscraping with BeuatifulSoup and Requests libraries, which I used along with BeuatifulSoup library documentation by crummy.com.
 
-With the help of the resources mentioned above wrote a script goes through each race result and rider profile page and writes the relavent statistics (e.g. date, distance, average speed, top-10 wins etc.) to pandas dataframes.
+I wrote a script that runs through thousands race results and rider profile website pages and writes the relavent statistics (e.g. date, distance, average speed, top-10 wins etc.) to csv files.
 
 See below 
 
