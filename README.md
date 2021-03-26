@@ -11,7 +11,7 @@ I wrote a script that runs through thousands race results and rider profile webs
 
 See below 
 
-img src="Sraping_diagram.png" 
+![](images/Sraping_diagram.png)
 
 ## Step Two: Data Cleaning and Processing 
 
