@@ -12,7 +12,7 @@ I wrote a script that runs through thousands race results and rider profile webs
 <details>
   <summary>Click to expand!</summary>
   
-  ![](images/Sraping_diagram.png.png)
+  ![](images/Sraping_diagram.png)
 
 </details>
 
