@@ -12,15 +12,15 @@ I wrote a script that runs through thousands race results and rider profile webs
 <details>
   <summary>Click to expand!</summary>
   
-  ## Minning process
+  #### Minning process
 
 ![](images/Sraping_diagram.png)
+<details>
 
 ## Step Two: Data Cleaning and Processing 
 
-Som e of the data contains unwanted characters other data in missing completly.    
+Some of the data contains unwanted characters other data in missing completly.    
 
-<details>
 
 
 ## Step Three: Analysis
