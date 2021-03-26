@@ -12,10 +12,10 @@ I wrote a script that runs through thousands race results and rider profile webs
 <details>
   <summary>Click to expand!</summary>
   
- #### Minning process
+   #### Minning process
 
-![](images/Sraping_diagram.png)
-<details>
+  ![](images/Sraping_diagram.png)
+
 
 ## Step Two: Data Cleaning and Processing 
 
