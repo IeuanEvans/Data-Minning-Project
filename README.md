@@ -20,7 +20,7 @@ I wrote a script that runs through thousands race results and rider profile webs
 
 Som e of the data contains unwanted characters other data in missing completly.    
 
-
+<details>
 
 
 ## Step Three: Analysis
