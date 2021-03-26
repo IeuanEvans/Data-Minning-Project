@@ -13,8 +13,9 @@ I wrote a script that runs through thousands race results and rider profile webs
   <summary>Click to expand!</summary>
   
    #### Minning process
-
-  ![](images/Sraping_diagram.png)
+  ![](images/VanAlt.png.png)
+  ![](images/CODE2.png.png)
+  ![](images/Wout_Van.png.png)
 </details>
 
 ## Step Two: Data Cleaning and Processing 
