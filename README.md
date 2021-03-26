@@ -9,7 +9,10 @@ As this was my first project of this kind I needed to find an effective way of e
 
 I wrote a script that runs through thousands race results and rider profile website pages and writes the relavent statistics (e.g. date, distance, average speed, top-10 wins etc.) to csv files.
 
-See below 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Minning process
 
 ![](images/Sraping_diagram.png)
 
