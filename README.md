@@ -18,7 +18,7 @@ I wrote a script that runs through thousands race results and rider profile webs
 
 ## Step Two: Data Cleaning and Processing 
 
-Some of the data contains unwanted characters other data in missing completly.    
+Data for some variables contain unwanted characters such as 'kg' for weight and 'm' for height. Some data is missing completly, if I recall correctly, the variables that were missing the most data were rider age and 'course profile' (race hilliness). For age, missing data were replaced with average height of all the riders. For course profile, missing data were replaced with course profile average for that race (i.e Paris Roubaix).       
 
 </details>
 
