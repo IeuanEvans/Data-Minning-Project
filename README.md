@@ -1,10 +1,12 @@
 
 #  Predicting Professional Road Cycling Race Results
-======================
+
+
 
 Analysing statistics from historical sporting events can inform coaches and players to facilitate better decision making and subsequently better results in competition. Sports analytics can also be used to forecast winning athletes and team, which offers financial value to bookmakers and bettors.     
 
 High quality data is essential for building ML model that performs well. Data was available for this project at procyclingstats.com a database driven website that stores cycling statistics, results, and rankings.   
+
 
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
