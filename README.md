@@ -1,7 +1,23 @@
 Professional Cycling Outcome Prediction Project 
 ======================
 
-#### This research project uses publicly available data from https://www.procyclingstats.com/ 
+#  Predicting Professional Road Cycling Race Results
+
+Analysing statistics from historical sporting events can inform coaches and players to facilitate better decision making and subsequently better results in competition. Sports analytics can also be used to forecast winning athletes and team, which offers financial value to bookmakers and bettors.     
+
+High quality data is essential for building ML model that performs well. Data was available for this project at procyclingstats.com a database driven website that stores cycling statistics, results, and rankings.   
+
+|__Problem__|__Methods__|__Libs__|__Repo__|
+|-|-|-|-|
+|[Data Collecting](#scraping-data-from-procyclingstats.com-for-machine-learning)|Parsing web documents (`HTML` and `XML`) |`BeautifulSoup`, `lxml`|[Click](https://github.com/IeuanEvans/ProCycling_Project/blob/master/Web_Scraping_PCS.ipynb)|
+|[Data Selection](#Selecting-data-for-machine-learning-project)|Correlation heatmap, Stepwise regression, Domain research|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`, `seaborn` |[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Model Validation](#comparing-model-predictions-against-fan-predictions)|Sorting algorithms|`Numpy`, `Pandas`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+
+
 
 ## Data Collection (Web Scraping)
 
