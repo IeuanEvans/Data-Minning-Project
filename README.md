@@ -16,8 +16,8 @@ High quality data is essential for building ML model that performs well. Data wa
 |[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
 |[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
 |[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Hyperparameter Tuning](#tuning-xgboost-hyperparameters)|GridSearchCV XGBoost train_test_split|`Numpy`, `Pandas`, `sklearn`, `xgboost`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/IeuanEvans/Forcasting-Road-Cycling-Race-Results/blob/master/XG_Boost.ipynb)|
+|[Hyperparameter Tuning](#tuning-xgboost-hyperparameters)|GridSearchCV XGBoost train_test_split|`Numpy`, `Pandas`, `sklearn`, `xgboost`|[Click](https://github.com/IeuanEvans/Forcasting-Road-Cycling-Race-Results/blob/master/XG_Boost.ipynb)|
 |[Model Validation](#comparing-model-predictions-against-fan-predictions)|Sorting algorithms|`Numpy`, `Pandas`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
 
 
