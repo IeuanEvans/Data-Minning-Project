@@ -7,7 +7,7 @@ Analysing statistics from historical sporting events can inform coaches and play
 
 High quality data is essential for building ML model that performs well. Data was available for this project at procyclingstats.com a database driven website that stores cycling statistics, results, and rankings.   
 
-* I am in still in the process of tidying and organsing the Ipython files for this project. Links in the table below to the files will be working within a few days. 
+* I am in still in the process of tidying and organsing the Ipython files for this project. Repo links in the table below will be working within a few days. 
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
