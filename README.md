@@ -7,18 +7,18 @@ Analysing statistics from historical sporting events can inform coaches and play
 
 High quality data is essential for building ML model that performs well. Data was available for this project at procyclingstats.com a database driven website that stores cycling statistics, results, and rankings.   
 
-
+* I am in still in the process of tidying and organsing the Ipython files for this project. Links in the table below to the files will be working within a few days. 
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
 |[Data Collecting](#scraping-data-from-procyclingstats.com-for-machine-learning)|Parsing web documents (`HTML` and `XML`) |`BeautifulSoup`, `lxml`|[Click](https://github.com/IeuanEvans/ProCycling_Project/blob/master/Web_Scraping_PCS.ipynb)|
-|[Data Selection](#Selecting-data-for-machine-learning-project)|Correlation heatmap, Stepwise regression, Domain research|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`, `seaborn` |[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
-|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click](https://github.com/IeuanEvans/Forcasting-Road-Cycling-Race-Results/blob/master/XG_Boost.ipynb)|
-|[Hyperparameter Tuning](#tuning-xgboost-hyperparameters)|GridSearchCV XGBoost train_test_split|`Numpy`, `Pandas`, `sklearn`, `xgboost`|[Click](https://github.com/IeuanEvans/Forcasting-Road-Cycling-Race-Results/blob/master/XG_Boost.ipynb)|
-|[Model Validation](#comparing-model-predictions-against-fan-predictions)|Sorting algorithms|`Numpy`, `Pandas`|[Click](https://github.com/erdiolmezogullari/ml-ab-testing)|
+|[Data Selection](#Selecting-data-for-machine-learning-project)|Correlation heatmap, Stepwise regression, Domain research|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`, `seaborn` |[Click]()|
+|[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click]()|
+|[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
+|[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click]()|
+|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
+|[Hyperparameter Tuning](#tuning-xgboost-hyperparameters)|GridSearchCV XGBoost train_test_split|`Numpy`, `Pandas`, `sklearn`, `xgboost`|[Click]()|
+|[Model Validation](#comparing-model-predictions-against-fan-predictions)|Sorting algorithms|`Numpy`, `Pandas`|[Click]()|
 
 
 
