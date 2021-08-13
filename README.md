@@ -12,7 +12,6 @@ High quality data is essential for building ML model that performs well. Data wa
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
 |[Data Collecting](#scraping-data-from-procyclingstats.com-for-machine-learning)|Parsing web documents (`HTML` and `XML`) |`BeautifulSoup`, `lxml`|[Click](https://github.com/IeuanEvans/ProCycling_Project/blob/master/Web_Scraping_PCS.ipynb)|
-|[Data Selection](#Selecting-data-for-machine-learning-project)|Correlation heatmap, Stepwise regression, Domain research|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`, `seaborn` |[Click]()|
 |[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click]()|
 |[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
 |[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click]()|
