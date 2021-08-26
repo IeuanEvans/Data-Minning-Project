@@ -14,8 +14,7 @@ High quality data is essential for building ML model that performs well. Data wa
 |[Data Collecting](#scraping-data-from-procyclingstats.com-for-machine-learning)|Parsing web documents (`HTML` and `XML`) |`BeautifulSoup`, `lxml`|[Click](https://github.com/IeuanEvans/ProCycling_Project/blob/master/Web_Scraping_PCS.ipynb)|
 |[Data Preprocessing](#processing-data-for-machine-learning-project)|Data cleaning, Data formatting, Data sampling|`Pandas`, `Numpy` |[Click]()|
 |[Feature Engineering](#processing-data-for-machine-learning-project)|Aggregating features, feature normalisation|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
-|[Data Splitting](#splitting-dataset-training-set-and-test-set)|Train_Test_Split|`Pandas`, `sklearn.model_selection`|[Click]()|
-|[Modeling](#training-model)|Model training, XGBoost|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
+|[Modeling](#training-model)|Model training, XGBoost, Data Splitting|`Pandas`, `Numpy`, `Matplotlib`, `sklearn`|[Click]()|
 |[Hyperparameter Tuning](#tuning-xgboost-hyperparameters)|GridSearchCV XGBoost train_test_split|`Numpy`, `Pandas`, `sklearn`, `xgboost`|[Click]()|
 |[Model Validation](#comparing-model-predictions-against-fan-predictions)|Sorting algorithms|`Numpy`, `Pandas`|[Click]()|
 
@@ -48,7 +47,7 @@ Feature to be included in the furture:
 
 ## Explore the Data
 
-The most obvious charaterrist of the data is how right swewd is. I imagine that is very commmon in sport of this kind 
+
 
 </details>
 
